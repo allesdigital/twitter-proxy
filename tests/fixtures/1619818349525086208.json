@@ -1,0 +1,577 @@
+{
+  "__typename": "Tweet",
+  "lang": "en",
+  "favorite_count": 2486,
+  "self_thread": {
+    "id_str": "1619818349525086208"
+  },
+  "possibly_sensitive": false,
+  "created_at": "2023-01-29T22:02:43.000Z",
+  "display_text_range": [0, 50],
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/Zp8B59kAAr",
+        "expanded_url": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+        "indices": [51, 74],
+        "url": "https://t.co/Zp8B59kAAr"
+      }
+    ]
+  },
+  "id_str": "1619818349525086208",
+  "text": "Mark Zuckerberg: \"VR / AR strategy\"\n\nJune 22, 2015 https://t.co/Zp8B59kAAr",
+  "user": {
+    "id_str": "1396491776739905542",
+    "name": "Internal Tech Emails",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1486195829949927425/4NPQEO8h_normal.jpg",
+    "screen_name": "TechEmails",
+    "verified": false,
+    "is_blue_verified": false
+  },
+  "edit_control": {
+    "edit_tweet_ids": ["1619818349525086208"],
+    "editable_until_msecs": "1675031563000",
+    "is_edit_eligible": false,
+    "edits_remaining": "5"
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.twitter.com/Zp8B59kAAr",
+      "expanded_url": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "ext_media_color": {
+        "palette": [
+          {
+            "percentage": 94.76,
+            "rgb": {
+              "red": 255,
+              "green": 255,
+              "blue": 255
+            }
+          },
+          {
+            "percentage": 5.24,
+            "rgb": {
+              "red": 141,
+              "green": 141,
+              "blue": 141
+            }
+          }
+        ]
+      },
+      "indices": [51, 74],
+      "media_url_https": "https://pbs.twimg.com/media/Fnq_wAtaUAAMTfP.png",
+      "original_info": {
+        "height": 1270,
+        "width": 1020,
+        "focus_rects": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 571
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1020
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1163
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 635,
+            "h": 1270
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1270
+          }
+        ]
+      },
+      "sizes": {
+        "large": {
+          "h": 1270,
+          "resize": "fit",
+          "w": 1020
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 964
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 546
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Zp8B59kAAr"
+    },
+    {
+      "display_url": "pic.twitter.com/Zp8B59kAAr",
+      "expanded_url": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "ext_media_color": {
+        "palette": [
+          {
+            "percentage": 93.7,
+            "rgb": {
+              "red": 253,
+              "green": 253,
+              "blue": 253
+            }
+          },
+          {
+            "percentage": 6.3,
+            "rgb": {
+              "red": 140,
+              "green": 140,
+              "blue": 140
+            }
+          }
+        ]
+      },
+      "indices": [51, 74],
+      "media_url_https": "https://pbs.twimg.com/media/Fnq_waWaEAAudpa.png",
+      "original_info": {
+        "height": 1270,
+        "width": 1020,
+        "focus_rects": [
+          {
+            "x": 0,
+            "y": 191,
+            "w": 1020,
+            "h": 571
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1020
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1163
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 635,
+            "h": 1270
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1270
+          }
+        ]
+      },
+      "sizes": {
+        "large": {
+          "h": 1270,
+          "resize": "fit",
+          "w": 1020
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 964
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 546
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Zp8B59kAAr"
+    },
+    {
+      "display_url": "pic.twitter.com/Zp8B59kAAr",
+      "expanded_url": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "ext_media_color": {
+        "palette": [
+          {
+            "percentage": 90.81,
+            "rgb": {
+              "red": 254,
+              "green": 254,
+              "blue": 254
+            }
+          },
+          {
+            "percentage": 9.19,
+            "rgb": {
+              "red": 136,
+              "green": 136,
+              "blue": 136
+            }
+          }
+        ]
+      },
+      "indices": [51, 74],
+      "media_url_https": "https://pbs.twimg.com/media/Fnq_w0FaAAIVp5w.png",
+      "original_info": {
+        "height": 1270,
+        "width": 1020,
+        "focus_rects": [
+          {
+            "x": 0,
+            "y": 127,
+            "w": 1020,
+            "h": 571
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1020
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1163
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 635,
+            "h": 1270
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1270
+          }
+        ]
+      },
+      "sizes": {
+        "large": {
+          "h": 1270,
+          "resize": "fit",
+          "w": 1020
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 964
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 546
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Zp8B59kAAr"
+    },
+    {
+      "display_url": "pic.twitter.com/Zp8B59kAAr",
+      "expanded_url": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "ext_media_color": {
+        "palette": [
+          {
+            "percentage": 89.93,
+            "rgb": {
+              "red": 254,
+              "green": 254,
+              "blue": 254
+            }
+          },
+          {
+            "percentage": 10.07,
+            "rgb": {
+              "red": 135,
+              "green": 135,
+              "blue": 135
+            }
+          }
+        ]
+      },
+      "indices": [51, 74],
+      "media_url_https": "https://pbs.twimg.com/media/Fnq_xO3aYAAPkdQ.png",
+      "original_info": {
+        "height": 1270,
+        "width": 1020,
+        "focus_rects": [
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 571
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1020
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1163
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 635,
+            "h": 1270
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "w": 1020,
+            "h": 1270
+          }
+        ]
+      },
+      "sizes": {
+        "large": {
+          "h": 1270,
+          "resize": "fit",
+          "w": 1020
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 964
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 546
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Zp8B59kAAr"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 571
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1020
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1163
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 635,
+          "h": 1270
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1270
+        }
+      ],
+      "expandedUrl": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "url": "https://pbs.twimg.com/media/Fnq_wAtaUAAMTfP.png",
+      "width": 1020,
+      "height": 1270
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "x": 0,
+          "y": 191,
+          "w": 1020,
+          "h": 571
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1020
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1163
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 635,
+          "h": 1270
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1270
+        }
+      ],
+      "expandedUrl": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "url": "https://pbs.twimg.com/media/Fnq_waWaEAAudpa.png",
+      "width": 1020,
+      "height": 1270
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "x": 0,
+          "y": 127,
+          "w": 1020,
+          "h": 571
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1020
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1163
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 635,
+          "h": 1270
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1270
+        }
+      ],
+      "expandedUrl": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "url": "https://pbs.twimg.com/media/Fnq_w0FaAAIVp5w.png",
+      "width": 1020,
+      "height": 1270
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 571
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1020
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1163
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 635,
+          "h": 1270
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "w": 1020,
+          "h": 1270
+        }
+      ],
+      "expandedUrl": "https://twitter.com/TechEmails/status/1619818349525086208/photo/1",
+      "url": "https://pbs.twimg.com/media/Fnq_xO3aYAAPkdQ.png",
+      "width": 1020,
+      "height": 1270
+    }
+  ],
+  "conversation_count": 56,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

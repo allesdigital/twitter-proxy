@@ -1,0 +1,33 @@
+{
+  "__typename": "Tweet",
+  "lang": "en",
+  "favorite_count": 148318,
+  "created_at": "2023-02-03T23:36:45.000Z",
+  "display_text_range": [0, 162],
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "id_str": "1621653950947799042",
+  "text": "Thank goodness, the wisdom of the people has prevailed!\n\nI am deeply appreciative of the jury’s unanimous finding of innocence in the Tesla 420 take-private case.",
+  "user": {
+    "id_str": "44196397",
+    "name": "Elon Musk",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1590968738358079488/IY9Gx6Ok_normal.jpg",
+    "screen_name": "elonmusk",
+    "verified": true,
+    "is_blue_verified": false
+  },
+  "edit_control": {
+    "edit_tweet_ids": ["1621653950947799042"],
+    "editable_until_msecs": "1675469205000",
+    "is_edit_eligible": true,
+    "edits_remaining": "5"
+  },
+  "conversation_count": 8729,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}
