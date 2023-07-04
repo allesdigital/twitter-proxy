@@ -38,7 +38,26 @@
 const route = useRoute();
 
 const { data: tweet } = await useFetch(
-  `https://cdn.syndication.twimg.com/tweet-result?features=tfw_timeline_list%3A%3Btfw_follower_count_sunset%3Atrue%3Btfw_tweet_edit_backend%3Aon%3Btfw_refsrc_session%3Aon%3Btfw_show_business_verified_badge%3Aon%3Btfw_mixed_media_15897%3Atreatment%3Btfw_experiments_cookie_expiration%3A1209600%3Btfw_duplicate_scribes_to_settings%3Aon%3Btfw_video_hls_dynamic_manifests_15082%3Atrue_bitrate%3Btfw_show_blue_verified_badge%3Aon%3Btfw_legacy_timeline_sunset%3Atrue%3Btfw_show_gov_verified_badge%3Aon%3Btfw_show_business_affiliate_badge%3Aon%3Btfw_tweet_edit_frontend%3Aon&lang=en&id=` +
+  "https://cdn.syndication.twimg.com/tweet-result" +
+    "?features=" +
+    [
+      "tfw_timeline_list:",
+      "tfw_follower_count_sunset:true",
+      "tfw_tweet_edit_backend:on",
+      "tfw_refsrc_session:on",
+      "tfw_show_business_verified_badge:on",
+      "tfw_mixed_media_15897:treatment",
+      "tfw_experiments_cookie_expiration:1209600",
+      "tfw_duplicate_scribes_to_settings:on",
+      "tfw_video_hls_dynamic_manifests_15082:true_bitrate",
+      "tfw_show_blue_verified_badge:on",
+      "tfw_legacy_timeline_sunset:true",
+      "tfw_show_gov_verified_badge:on",
+      "tfw_show_business_affiliate_badge:on",
+      "tfw_tweet_edit_frontend:on",
+    ].join(";") +
+    "&lang=en" +
+    "&id=" +
     route.params.tweet_id
 );
 
